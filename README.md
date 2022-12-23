@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miwa3067&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi-67&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
